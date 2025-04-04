@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/main.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/money.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/money.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/money.cpp",
+  "output": "src/CMakeFiles/src.dir/money.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/stock.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/stock.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/stock.cpp",
+  "output": "src/CMakeFiles/src.dir/stock.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/portfolio.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/portfolio.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/portfolio.cpp",
+  "output": "src/CMakeFiles/src.dir/portfolio.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/driver.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/driver.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/driver.cpp",
+  "output": "src/CMakeFiles/src.dir/driver.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/strlib.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/strlib.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p1-burnsteinalexander/src/strlib.cpp",
+  "output": "src/CMakeFiles/src.dir/strlib.cpp.o"
+}
+]
